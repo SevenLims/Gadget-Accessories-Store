@@ -16,6 +16,8 @@ Search "http://localhost/Gadget-Accessories-Store" using Google Chrome.
 You're now good to use it! This webiste comprises the logically normal CRUD operations and a simple interface. 
 
 Staff login username and password:
+
 Name: Seven
+
 Password: 123456
 

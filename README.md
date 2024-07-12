@@ -3,7 +3,7 @@ This is a repo for Serverside-Side Web Applications Development Course.
 
 It should be used with the assignment_db database that should be hosted in Xampp or any other supported database services.
 
-*assignment_db.sql should be imported to phpMyAdmin before use it.
+*assignment_db.sql should be imported into phpMyAdmin before use it.
 
 Pre-Settings:
 Open your xampp service and run Apache & MySQL simultaneously, only proceed to the Admin of MySQL.

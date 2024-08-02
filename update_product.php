@@ -90,10 +90,10 @@ mysqli_close($con);
             <input type="file" name="image" id="image" accept="image/jpeg, image/png">
 
             <label for="price">Price:</label>
-            <input type="number" name="price" step="0.01" min="0" id="price" value="<?php echo $row['price']; ?>" placeholder="Price" required>
+            <input type="number" name="price" step="0.01" min="1" id="price" value="<?php echo $row['price']; ?>" placeholder="Price" required>
 
             <label for="rrp">RRP:</label>
-            <input type="number" name="rrp" step="0.01" min="0" id="rrp" value="<?php echo $row['rrp']; ?>" placeholder="Recommended Retail Price" required>
+            <input type="number" name="rrp" step="0.01" min="1" id="rrp" value="<?php echo $row['rrp']; ?>" placeholder="Recommended Retail Price" required>
 
             <label for="quantity">Quantity:</label>
             <input type="number" name="quantity" id="quantity" value="<?php echo $row['quantity']; ?>" placeholder="Quantity" required>

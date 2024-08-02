@@ -72,7 +72,7 @@ mysqli_close($con);
             <label for="image">Image:</label>
             <input type="file" name="image" id="image" accept="image/jpeg, image/png" required>
             <label for="price">Price:</label>
-            <input type="number" name="price" step="0.01" min="0" id="price" placeholder="Price" required>
+            <input type="number" name="price" step="0.01" min="1" id="price" placeholder="Price" required>
             <label for="quantity">Quantity:</label>
             <input type="number" name="quantity" id="quantity" placeholder="Quantity" required>
             <input type="submit" value="Submit">

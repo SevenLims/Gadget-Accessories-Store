@@ -1,4 +1,4 @@
-# Server_side
+# Server_side Development
 This is a repo for Server-Side Web Applications Development Course.
 
 It should be used with the relevant database that in Xampp or any other supported database services.
